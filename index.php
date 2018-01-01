@@ -7,5 +7,7 @@
 <body>
 	
 	<h1>Hola Bienvenidos</h1>
+
+	<<h2>todo para el hogar</h2>
 </body>
 </html>
